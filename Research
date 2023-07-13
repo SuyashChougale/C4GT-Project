@@ -1,0 +1,7 @@
+BERT :https://aclanthology.org/N19-1423.pdf
+ALBERT : https://arxiv.org/abs/1909.11942
+ELECTRA : https://arxiv.org/abs/2003.10555
+RoBERTa : https://arxiv.org/abs/1907.11692
+DistilBERT : https://arxiv.org/abs/1910.01108
+MiniLM : https://proceedings.neurips.cc/paper/2020/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+MobileBERT : https://arxiv.org/pdf/2109.07222.pdf
